@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🙂👋
 
-<!--
-**jutroiano/jutroiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      informaçoes sobre mim
+Nome: Juliana de Vascolcelos Troiano
 
-Here are some ideas to get you started:
+Idade: 17
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estudo no E.E prof Joao borges 
+
+estou cursando o terceiro ano do ensino medio
+
+
+![](https://media1.tenor.com/m/hwOB0xcJ3DwAAAAC/breakup-peach.gif)
